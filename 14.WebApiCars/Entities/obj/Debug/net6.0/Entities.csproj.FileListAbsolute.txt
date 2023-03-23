@@ -1,0 +1,14 @@
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\66.WebApiCars\Entities\obj\Debug\net6.0\ref\Entities.dll

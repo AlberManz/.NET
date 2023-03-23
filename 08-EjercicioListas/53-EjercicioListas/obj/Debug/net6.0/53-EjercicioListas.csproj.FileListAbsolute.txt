@@ -1,0 +1,15 @@
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\bin\Debug\net6.0\53-EjercicioListas.exe
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\bin\Debug\net6.0\53-EjercicioListas.deps.json
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\bin\Debug\net6.0\53-EjercicioListas.runtimeconfig.json
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\bin\Debug\net6.0\53-EjercicioListas.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\bin\Debug\net6.0\53-EjercicioListas.pdb
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\obj\Debug\net6.0\53-EjercicioListas.csproj.AssemblyReference.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\obj\Debug\net6.0\53-EjercicioListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\obj\Debug\net6.0\53-EjercicioListas.AssemblyInfoInputs.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\obj\Debug\net6.0\53-EjercicioListas.AssemblyInfo.cs
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\obj\Debug\net6.0\53-EjercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\obj\Debug\net6.0\53-EjercicioListas.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\obj\Debug\net6.0\refint\53-EjercicioListas.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\obj\Debug\net6.0\53-EjercicioListas.pdb
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\obj\Debug\net6.0\53-EjercicioListas.genruntimeconfig.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\53-EjercicioListas\53-EjercicioListas\obj\Debug\net6.0\ref\53-EjercicioListas.dll

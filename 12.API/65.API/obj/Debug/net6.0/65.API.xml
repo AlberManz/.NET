@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>65.API</name>
+    </assembly>
+    <members>
+        <member name="M:_65.API.Controllers.AlbumesController.Get(System.Int32)">
+            <summary>
+            Obtiene un álbum por id
+            </summary>
+            <param name="id">Identificador del álbum</param>
+            <returns>Album encontrado</returns>
+        </member>
+        <member name="M:_65.API.Controllers.AlbumesController.AlbumesAgrupados(System.String)">
+            <summary>
+            Lista de álbumes agrupados por cada artista
+            </summary>
+            /// <param name="NombreArtista">Nombre del artista</param>
+            <returns>Devuelve los artistas con sus álbumes agrupados</returns>
+        </member>
+        <member name="M:_65.API.Controllers.AlbumesController.Post(Entities.Requests.CreateAlbumRequest)">
+            <summary>
+             Crea un álbum
+            </summary>
+            <param name="album">Álbum a crear</param>
+            <returns>Status Code 201 - Creado</returns>
+        </member>
+        <member name="M:_65.API.Controllers.AlbumesController.Put(System.Int32,Entities.Requests.UpdateAlbumRequest)">
+            <summary>
+            Actualiza un álbum
+            </summary>
+            <param name="id">id del álbum a actualizar</param>
+            <param name="albumRequest"></param>
+            <returns>Status Code 200</returns>
+        </member>
+        <member name="M:_65.API.Controllers.AlbumesController.Delete(System.Int32)">
+            <summary>
+            Elimina un álbum
+            </summary>
+            <param name="id">id del álbum a eliminar</param>
+            <returns>Status Code 200</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\bin\Debug\net6.0\Linq.Completo.Servicios.deps.json
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\bin\Debug\net6.0\Linq.Completo.Servicios.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\bin\Debug\net6.0\Linq.Completo.Servicios.pdb
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\bin\Debug\net6.0\Linq.Completo.Entidades.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\bin\Debug\net6.0\Linq.Completo.Entidades.pdb
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\obj\Debug\net6.0\Linq.Completo.Servicios.csproj.AssemblyReference.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\obj\Debug\net6.0\Linq.Completo.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\obj\Debug\net6.0\Linq.Completo.Servicios.AssemblyInfoInputs.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\obj\Debug\net6.0\Linq.Completo.Servicios.AssemblyInfo.cs
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\obj\Debug\net6.0\Linq.Completo.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\obj\Debug\net6.0\Linq.Completo.Servicios.csproj.CopyComplete
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\obj\Debug\net6.0\Linq.Completo.Servicios.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\obj\Debug\net6.0\refint\Linq.Completo.Servicios.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\obj\Debug\net6.0\Linq.Completo.Servicios.pdb
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\Linq.Completo.Servicios\obj\Debug\net6.0\ref\Linq.Completo.Servicios.dll

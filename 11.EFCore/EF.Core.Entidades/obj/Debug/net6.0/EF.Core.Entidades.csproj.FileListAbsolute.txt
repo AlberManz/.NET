@@ -1,0 +1,12 @@
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EF.Core.Entidades\bin\Debug\net6.0\EF.Core.Entidades.deps.json
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EF.Core.Entidades\bin\Debug\net6.0\EF.Core.Entidades.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EF.Core.Entidades\bin\Debug\net6.0\EF.Core.Entidades.pdb
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EF.Core.Entidades\obj\Debug\net6.0\EF.Core.Entidades.csproj.AssemblyReference.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EF.Core.Entidades\obj\Debug\net6.0\EF.Core.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EF.Core.Entidades\obj\Debug\net6.0\EF.Core.Entidades.AssemblyInfoInputs.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EF.Core.Entidades\obj\Debug\net6.0\EF.Core.Entidades.AssemblyInfo.cs
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EF.Core.Entidades\obj\Debug\net6.0\EF.Core.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EF.Core.Entidades\obj\Debug\net6.0\EF.Core.Entidades.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EF.Core.Entidades\obj\Debug\net6.0\refint\EF.Core.Entidades.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EF.Core.Entidades\obj\Debug\net6.0\EF.Core.Entidades.pdb
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EF.Core.Entidades\obj\Debug\net6.0\ref\EF.Core.Entidades.dll

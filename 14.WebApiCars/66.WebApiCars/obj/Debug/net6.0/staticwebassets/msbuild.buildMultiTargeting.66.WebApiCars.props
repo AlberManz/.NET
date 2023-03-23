@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\66.WebApiCars.props" />
+</Project>

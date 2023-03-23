@@ -1,0 +1,20 @@
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\bin\Debug\net6.0\57.Linq Completo.exe
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\bin\Debug\net6.0\57.Linq Completo.deps.json
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\bin\Debug\net6.0\57.Linq Completo.runtimeconfig.json
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\bin\Debug\net6.0\57.Linq Completo.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\bin\Debug\net6.0\57.Linq Completo.pdb
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\bin\Debug\net6.0\Linq.Completo.Entidades.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\bin\Debug\net6.0\Linq.Completo.Servicios.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\bin\Debug\net6.0\Linq.Completo.Servicios.pdb
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\bin\Debug\net6.0\Linq.Completo.Entidades.pdb
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\obj\Debug\net6.0\57.Linq Completo.csproj.AssemblyReference.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\obj\Debug\net6.0\57.Linq Completo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\obj\Debug\net6.0\57.Linq Completo.AssemblyInfoInputs.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\obj\Debug\net6.0\57.Linq Completo.AssemblyInfo.cs
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\obj\Debug\net6.0\57.Linq Completo.csproj.CoreCompileInputs.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\obj\Debug\net6.0\57.Linq Completo.csproj.CopyComplete
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\obj\Debug\net6.0\57.Linq Completo.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\obj\Debug\net6.0\refint\57.Linq Completo.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\obj\Debug\net6.0\57.Linq Completo.pdb
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\obj\Debug\net6.0\57.Linq Completo.genruntimeconfig.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\57.Linq Completo\57.Linq Completo\obj\Debug\net6.0\ref\57.Linq Completo.dll

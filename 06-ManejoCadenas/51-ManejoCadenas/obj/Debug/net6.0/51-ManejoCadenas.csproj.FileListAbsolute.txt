@@ -1,0 +1,15 @@
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\bin\Debug\net6.0\51-ManejoCadenas.exe
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\bin\Debug\net6.0\51-ManejoCadenas.deps.json
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\bin\Debug\net6.0\51-ManejoCadenas.runtimeconfig.json
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\bin\Debug\net6.0\51-ManejoCadenas.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\bin\Debug\net6.0\51-ManejoCadenas.pdb
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\obj\Debug\net6.0\51-ManejoCadenas.csproj.AssemblyReference.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\obj\Debug\net6.0\51-ManejoCadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\obj\Debug\net6.0\51-ManejoCadenas.AssemblyInfoInputs.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\obj\Debug\net6.0\51-ManejoCadenas.AssemblyInfo.cs
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\obj\Debug\net6.0\51-ManejoCadenas.csproj.CoreCompileInputs.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\obj\Debug\net6.0\51-ManejoCadenas.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\obj\Debug\net6.0\refint\51-ManejoCadenas.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\obj\Debug\net6.0\51-ManejoCadenas.pdb
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\obj\Debug\net6.0\51-ManejoCadenas.genruntimeconfig.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\51-ManejoCadenas\51-ManejoCadenas\obj\Debug\net6.0\ref\51-ManejoCadenas.dll

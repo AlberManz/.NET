@@ -1,0 +1,15 @@
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\bin\Debug\net6.0\49-Interfaces.exe
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\bin\Debug\net6.0\49-Interfaces.deps.json
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\bin\Debug\net6.0\49-Interfaces.runtimeconfig.json
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\bin\Debug\net6.0\49-Interfaces.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\bin\Debug\net6.0\49-Interfaces.pdb
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\obj\Debug\net6.0\49-Interfaces.csproj.AssemblyReference.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\obj\Debug\net6.0\49-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\obj\Debug\net6.0\49-Interfaces.AssemblyInfoInputs.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\obj\Debug\net6.0\49-Interfaces.AssemblyInfo.cs
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\obj\Debug\net6.0\49-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\obj\Debug\net6.0\49-Interfaces.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\obj\Debug\net6.0\refint\49-Interfaces.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\obj\Debug\net6.0\49-Interfaces.pdb
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\obj\Debug\net6.0\49-Interfaces.genruntimeconfig.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\49-Interfaces\49-Interfaces\obj\Debug\net6.0\ref\49-Interfaces.dll

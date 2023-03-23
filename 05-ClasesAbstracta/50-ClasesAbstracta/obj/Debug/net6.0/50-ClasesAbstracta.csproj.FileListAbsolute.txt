@@ -1,0 +1,15 @@
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\bin\Debug\net6.0\50-ClasesAbstracta.exe
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\bin\Debug\net6.0\50-ClasesAbstracta.deps.json
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\bin\Debug\net6.0\50-ClasesAbstracta.runtimeconfig.json
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\bin\Debug\net6.0\50-ClasesAbstracta.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\bin\Debug\net6.0\50-ClasesAbstracta.pdb
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\obj\Debug\net6.0\50-ClasesAbstracta.csproj.AssemblyReference.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\obj\Debug\net6.0\50-ClasesAbstracta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\obj\Debug\net6.0\50-ClasesAbstracta.AssemblyInfoInputs.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\obj\Debug\net6.0\50-ClasesAbstracta.AssemblyInfo.cs
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\obj\Debug\net6.0\50-ClasesAbstracta.csproj.CoreCompileInputs.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\obj\Debug\net6.0\50-ClasesAbstracta.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\obj\Debug\net6.0\refint\50-ClasesAbstracta.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\obj\Debug\net6.0\50-ClasesAbstracta.pdb
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\obj\Debug\net6.0\50-ClasesAbstracta.genruntimeconfig.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\50-ClasesAbstracta\50-ClasesAbstracta\obj\Debug\net6.0\ref\50-ClasesAbstracta.dll

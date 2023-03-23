@@ -1,0 +1,17 @@
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\obj\Debug\net6.0\EFCore.Services.csproj.AssemblyReference.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\obj\Debug\net6.0\EFCore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\obj\Debug\net6.0\EFCore.Services.AssemblyInfoInputs.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\obj\Debug\net6.0\EFCore.Services.AssemblyInfo.cs
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\obj\Debug\net6.0\EFCore.Services.csproj.CoreCompileInputs.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\bin\Debug\net6.0\EFCore.Services.deps.json
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\bin\Debug\net6.0\EFCore.Services.runtimeconfig.json
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\bin\Debug\net6.0\EFCore.Services.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\bin\Debug\net6.0\EFCore.Services.pdb
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\bin\Debug\net6.0\EF.Core.Entidades.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\bin\Debug\net6.0\EF.Core.Entidades.pdb
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\obj\Debug\net6.0\EFCore.Services.csproj.CopyComplete
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\obj\Debug\net6.0\EFCore.Services.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\obj\Debug\net6.0\refint\EFCore.Services.dll
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\obj\Debug\net6.0\EFCore.Services.pdb
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\obj\Debug\net6.0\EFCore.Services.genruntimeconfig.cache
+C:\Users\CesarDiaz\source\repos\BOOTCAMP-IRONMAN\10_NET\Ejercicios\64.EFCore\EFCore.Services\obj\Debug\net6.0\ref\EFCore.Services.dll

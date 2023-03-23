@@ -1,0 +1,15 @@
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\bin\Debug\net6.0\AlbumFotos.exe
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\bin\Debug\net6.0\AlbumFotos.deps.json
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\bin\Debug\net6.0\AlbumFotos.runtimeconfig.json
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\bin\Debug\net6.0\AlbumFotos.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\bin\Debug\net6.0\AlbumFotos.pdb
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\obj\Debug\net6.0\AlbumFotos.csproj.AssemblyReference.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\obj\Debug\net6.0\AlbumFotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\obj\Debug\net6.0\AlbumFotos.AssemblyInfoInputs.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\obj\Debug\net6.0\AlbumFotos.AssemblyInfo.cs
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\obj\Debug\net6.0\AlbumFotos.csproj.CoreCompileInputs.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\obj\Debug\net6.0\AlbumFotos.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\obj\Debug\net6.0\refint\AlbumFotos.dll
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\obj\Debug\net6.0\AlbumFotos.pdb
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\obj\Debug\net6.0\AlbumFotos.genruntimeconfig.cache
+C:\Users\ALBER\Documents\CodeHouse\Repositorios\Mis-apuntes\10-.NET\Ejercicios\AlbumFotos\AlbumFotos\obj\Debug\net6.0\ref\AlbumFotos.dll

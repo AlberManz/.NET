@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "57.Linq Completo/1.0.0": {
+        "dependencies": {
+          "Linq.Completo.Servicios": "1.0.0"
+        },
+        "runtime": {
+          "57.Linq Completo.dll": {}
+        }
+      },
+      "Linq.Completo.Entidades/1.0.0": {
+        "runtime": {
+          "Linq.Completo.Entidades.dll": {}
+        }
+      },
+      "Linq.Completo.Servicios/1.0.0": {
+        "dependencies": {
+          "Linq.Completo.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Linq.Completo.Servicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "57.Linq Completo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Linq.Completo.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Linq.Completo.Servicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
